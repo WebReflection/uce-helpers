@@ -1,6 +1,6 @@
 {
   "name": "uce-helpers",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Common helpers for uce related projects",
   "main": "./cjs/index.js",
   "scripts": {
