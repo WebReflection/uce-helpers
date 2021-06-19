@@ -1,6 +1,6 @@
 # <em>µ</em>ce-helpers
 
-[![Build Status](https://travis-ci.com/WebReflection/uce-helpers.svg?branch=main)](https://travis-ci.com/WebReflection/uce-helpers) [![Coverage Status](https://coveralls.io/repos/github/WebReflection/uce-helpers/badge.svg?branch=main)](https://coveralls.io/github/WebReflection/uce?branch=main)
+[![Build Status](https://travis-ci.com/WebReflection/uce-helpers.svg?branch=main)](https://travis-ci.com/WebReflection/uce-helpers) [![Coverage Status](https://coveralls.io/repos/github/WebReflection/uce-helpers/badge.svg?branch=main)](https://coveralls.io/github/WebReflection/uce-helpers?branch=main)
 
 Common helpers for uce related projects:
 
